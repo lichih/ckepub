@@ -1,1 +1,4 @@
 input/
+output/
+tests/input
+tests/output
